@@ -271,7 +271,7 @@ h2 { font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; col
     .dmu-logo img {
         width: 150px; 
     }
-   .home-page-image img { width: 600px; height: 500px;}
+   .home-page-image img { width: 600px; height: 500px; object-fit: cover; margin-bottom: 20px; margin-top: 20px; }
 }
 #about h1 {
     color: #1e293b; /* ጥቁር ሰማያዊ */
@@ -290,3 +290,4 @@ h2 { font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; col
     text-align: justify;
 
 }
+
