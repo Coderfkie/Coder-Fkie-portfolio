@@ -39,7 +39,7 @@ ul {
 }
 
 /* =========================================
-   2. Sidebar & Navigation (የጎን ማውጫ)
+   2. Sidebar & Navigation 
    ========================================= */
 .sidebar {
     width: 30%;
@@ -269,8 +269,9 @@ h2 { font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; col
     }
 
     .dmu-logo img {
-        width: 100px; 
+        width: 150px; 
     }
+   .home-page-image img { width: 600px; height: 500px;}
 }
 #about h1 {
     color: #1e293b; /* ጥቁር ሰማያዊ */
@@ -287,4 +288,5 @@ h2 { font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; col
     line-height: 1.1; 
     font-size: 1.1rem;
     text-align: justify;
+
 }
